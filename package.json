@@ -1,5 +1,6 @@
 {
-  "homepage": "http://nicbuirod.github.io/chess",
+  "homepage": "https://nicbuirod.github.io/chess/",
+  
   "name": "chess",
   "version": "0.1.0",
   "private": true,
